@@ -10,6 +10,10 @@ The platform supports user accounts, recipe management, intelligent search, and 
 
 This project also includes a structured MySQL database and secure authentication system, making it suitable as a real-world web application or graduation project.
 
+![image alt](https://github.com/ahmed-alsharafi/Wold-of-flavors/blob/main/assets/images/Header.png)
+
+
+
 # Features
 
 👥 User Features
