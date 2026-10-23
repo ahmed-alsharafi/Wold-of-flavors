@@ -11,6 +11,8 @@ The platform supports user accounts, recipe management, intelligent search, and 
 This project also includes a structured MySQL database and secure authentication system, making it suitable as a real-world web application or graduation project.
 
 ![image alt](https://github.com/ahmed-alsharafi/Wold-of-flavors/blob/main/assets/images/Header.png)
+![image alt](https://github.com/ahmed-alsharafi/Wold-of-flavors/blob/main/assets/images/index_img1.png)
+![image alt](https://github.com/ahmed-alsharafi/Wold-of-flavors/blob/main/assets/images/index_img2.png)
 
 
 
@@ -19,11 +21,23 @@ This project also includes a structured MySQL database and secure authentication
 👥 User Features
 
 * Create an account & login securely
+  ![image alt](https://github.com/ahmed-alsharafi/Wold-of-flavors/blob/main/assets/images/register_imp1.png)
+  
 * Browse all recipes
+ ![image alt](https://github.com/ahmed-alsharafi/Wold-of-flavors/blob/main/assets/images/recipe_img1.png)
+
 * View detailed recipe pages
+   ![image alt](https://github.com/ahmed-alsharafi/Wold-of-flavors/blob/main/assets/images/recipe_detail_img1.png)
+   ![image alt](https://github.com/ahmed-alsharafi/Wold-of-flavors/blob/main/assets/images/recipe_detail_img2.png)
+  
 * Upload recipe images
 * Smart recipe search (Recipe Builder)
+     ![image alt](https://github.com/ahmed-alsharafi/Wold-of-flavors/blob/main/assets/images/recipe-builder.png)
+     ![image alt](https://github.com/ahmed-alsharafi/Wold-of-flavors/blob/main/assets/images/recipe-builder2.png)
+  
 * Add new recipes
+    ![image alt](https://github.com/ahmed-alsharafi/Wold-of-flavors/blob/main/assets/images/Add_recipe.png)
+  
 * Mobile-friendly responsive UI
 
 
@@ -31,10 +45,19 @@ This project also includes a structured MySQL database and secure authentication
 🛠️ Admin Features
 
 * Accessible only to admin accounts:
+  
 * Full dashboard with key statistics
+   ![image alt](https://github.com/ahmed-alsharafi/Wold-of-flavors/blob/main/assets/images/dashboard1.png)
+  
 * Manage users (add, edit, delete)
+   ![image alt](https://github.com/ahmed-alsharafi/Wold-of-flavors/blob/main/assets/images/Manage-user.png)
+   ![image alt](https://github.com/ahmed-alsharafi/Wold-of-flavors/blob/main/assets/images/Edit_User.png)
+  
 * Manage all recipes (edit, delete)
+   ![image alt](https://github.com/ahmed-alsharafi/Wold-of-flavors/blob/main/assets/images/Manage-recipes.png)
+  
 * View recent users and recent recipes
+  
 * Daily analytics (new users, daily recipes)
 
 
