@@ -2,6 +2,7 @@
 
 A dynamic and user-friendly cooking recipes web application that allows users to explore, add, edit, and manage recipes with a clean interface and an admin dashboard for full system control.
 
+![image alt](https://github.com/ahmed-alsharafi/Wold-of-flavors/blob/main/assets/images/logo-png.png)
 # Overview
 
 The World of Flavors is a PHP-based web application designed to help users browse and share cooking recipes.
